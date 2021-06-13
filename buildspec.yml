@@ -13,4 +13,4 @@ artifacts:
   paths:
     - '/'
   name:
-    - webpage.zip
+    - "webpage.zip"
