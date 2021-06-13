@@ -11,6 +11,6 @@ phases:
 artifacts:
   type: zip
   paths:
-    - '*'
+    - '/'
   name:
     - webpage.zip
