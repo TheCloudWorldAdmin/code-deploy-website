@@ -9,8 +9,5 @@ phases:
     commands:
     - echo "Deployed to S3"
 artifacts:
-  type: zip
-  paths:
-    - '/'
-  name:
-    - "webpage.zip"
+  files:
+    - '**/*'
